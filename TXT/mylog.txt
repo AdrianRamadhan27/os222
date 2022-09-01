@@ -6,3 +6,4 @@ ZCZC W00 10 L00 Fill https://forms.gle/QsUGiA7mWiYtXcs27 form
 ZCZC W00 10 L03 Made os222 Repo
 ZCZC W00 10 L04 Made os222 Github Page 
 ZCZC W00 100 L02 ZOOM meeting on 30/08/22
+ZCZC W00 100 L02 ZOOM meeting on 01/09/22
