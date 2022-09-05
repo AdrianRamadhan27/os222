@@ -9,7 +9,8 @@ ZCZC W00 100 L02 ZOOM meeting on 30/08/22
 ZCZC W00 100 L02 ZOOM meeting on 01/09/22
 ZCZC W00 180 L06 Read and watched references for reading assignment
 ZCZC W00 3 L05 Did the WEEK 00 Quiz 1
-ZCZC W00 15 L31 Downloaded and Installed VirtualBox
-ZCZC W00 2 L61 Installed VirtualBox Extension Pack
-ZCZC W00 5 L27 Downloaded and Installed PuTTY and WinSCP
-ZCZC W00 60 L62 Configured and Installed Debian Guest
+ZCZC W00 30 L10 Finished WEEK 0 Assignments by updating TXT/mylog.txt
+ZCZC W01 15 L31 Downloaded and Installed VirtualBox
+ZCZC W01 2 L61 Installed VirtualBox Extension Pack
+ZCZC W01 5 L27 Downloaded and Installed PuTTY and WinSCP
+ZCZC W01 60 L62 Configured and Installed Debian Guest
