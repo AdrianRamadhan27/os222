@@ -14,5 +14,5 @@ ZCZC W01 15 L31 Downloaded and Installed VirtualBox
 ZCZC W01 2 L61 Installed VirtualBox Extension Pack
 ZCZC W01 5 L27 Downloaded and Installed PuTTY and WinSCP
 ZCZC W01 60 L62 Configured and Installed Debian Guest
-ZCZC W00 100 L02 ZOOM meeting on Sep 5th 2022
-ZCZC W00 60 L32 Watched Linux Commands, Vim commands, Regex, and Bash Script Tutorials on YouTube
+ZCZC W01 100 L02 ZOOM meeting on Sep 5th 2022
+ZCZC W01 60 L32 Watched Linux Commands, Vim commands, Regex, and Bash Script Tutorials on YouTube
