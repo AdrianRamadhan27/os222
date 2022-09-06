@@ -5,8 +5,8 @@ ZCZC W00 05 L01 Join SCELE
 ZCZC W00 10 L00 Fill https://forms.gle/QsUGiA7mWiYtXcs27 form
 ZCZC W00 10 L03 Made os222 Repo
 ZCZC W00 10 L04 Made os222 Github Page 
-ZCZC W00 100 L02 ZOOM meeting on 30/08/22
-ZCZC W00 100 L02 ZOOM meeting on 01/09/22
+ZCZC W00 100 L02 ZOOM meeting on Aug 30th 2022
+ZCZC W00 100 L02 ZOOM meeting on Sep 1st 2022
 ZCZC W00 180 L06 Read and watched references for reading assignment
 ZCZC W00 3 L05 Did the WEEK 00 Quiz 1
 ZCZC W00 30 L10 Finished WEEK 0 Assignments by updating TXT/mylog.txt
@@ -14,3 +14,5 @@ ZCZC W01 15 L31 Downloaded and Installed VirtualBox
 ZCZC W01 2 L61 Installed VirtualBox Extension Pack
 ZCZC W01 5 L27 Downloaded and Installed PuTTY and WinSCP
 ZCZC W01 60 L62 Configured and Installed Debian Guest
+ZCZC W00 100 L02 ZOOM meeting on Sep 5th 2022
+ZCZC W00 60 L32 Watched Linux Commands, Vim commands, Regex, and Bash Script Tutorials on YouTube
