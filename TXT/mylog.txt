@@ -16,3 +16,6 @@ ZCZC W01 5 L27 Downloaded and Installed PuTTY and WinSCP
 ZCZC W01 60 L62 Configured and Installed Debian Guest
 ZCZC W01 100 L02 ZOOM meeting on Sep 5th 2022
 ZCZC W01 60 L32 Watched Linux Commands, Vim commands, Regex, and Bash Script Tutorials on YouTube
+ZCZC W01 100 L02 ZOOM meeting on Sep 7th 2022
+
+
