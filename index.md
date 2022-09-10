@@ -10,7 +10,7 @@
 [GITHUB](https://github.com/AdrianRamadhan27/os222/)
 <br>
 <hr>
-This is os222 website and I am [AdrianRamadhan27](https://github.com/AdrianRamadhan27).
+This is os222 website and I am Adrian.
 <br><br>
 This is the way!
 <br>
