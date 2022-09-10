@@ -1,6 +1,6 @@
 ---
 ---
-<span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
+<span style="color:red; font-weight:bold; font-size:larger;">By [AdrianRamadhan27](https://github.com/AdrianRamadhan27)</span>
 <br><br>
 [HOME](https://adrianramadhan27.github.io/os222/) ---
 [LINKS](https://adrianramadhan27.github.io/os222/LINKS/) ---
@@ -10,7 +10,7 @@
 [GITHUB](https://github.com/AdrianRamadhan27/os222/)
 <br>
 <hr>
-This is os222 website and I am AdrianRamadhan27.
+This is os222 website and I am [AdrianRamadhan27](https://github.com/AdrianRamadhan27).
 <br><br>
 This is the way!
 <br>
