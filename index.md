@@ -1,18 +1,20 @@
 ---
 ---
-<span style="color:red; font-weight:bold; font-size:larger;">By [AdrianRamadhan27](https://github.com/AdrianRamadhan27)</span>
+<span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
 <br><br>
-[HOME](https://adrianramadhan27.github.io/os222/) ---
-[LINKS](https://adrianramadhan27.github.io/os222/LINKS/) ---
-[TIPS](https://adrianramadhan27.github.io/os222//TIPS/) ---
-[LOG](https://adrianramadhan27.github.io/os222/TXT/mylog.txt) ---
+[HOME]({{ site.baseurl }}/) ---
+[LINKS]({{ site.baseurl }}/LINKS/) ---
+[TIPS]({{ site.baseurl }}/TIPS/) ---
+[LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
 [TARBALL](SandBox/cbkadal.tar.xz) ---
-[GITHUB](https://github.com/AdrianRamadhan27/os222/)
+[GITHUB]({{ site.githublink }})
 <br>
 <hr>
-This is os222 website and I am Adrian.
+This is {{ site.title }} and I am {{ site.author }}.
 <br><br>
 This is the way!
 <br>
-
+<hr>
+&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
+<hr>
 <br>
