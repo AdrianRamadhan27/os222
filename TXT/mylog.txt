@@ -22,5 +22,7 @@ ZCZC W01 40 L62 Installing Debian Packages
 ZCZC W01 45 L62 Dressing up Debian Guest
 ZCZC W01 15 L03 Cloned os222 repository on Debian
 ZCZC W01 120 L06 ATM and GSG for reading assignment
+ZCZC W01 10 L03 Added index.md and links.md for github page
+ZCZC W01 5 L40 Added myupdate.txt in /TXT/
 
 
