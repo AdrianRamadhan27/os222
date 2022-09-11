@@ -26,5 +26,5 @@ ZCZC W01 120 L06 ATM and GSG for reading assignment
 ZCZC W01 10 L03 Added index.md and links.md for github page
 ZCZC W01 5 L40 Added myupdate.txt in /TXT/
 ZCZC W01 90 L03 Updated links.md with my recommended links for WEEK 0 and WEEK 1
-ZCZC W00 10 L11 Finished WEEK 1 Assignments by updating TXT/mylog.txt
+ZCZC W01 10 L11 Finished WEEK 1 Assignments by updating TXT/mylog.txt
 
