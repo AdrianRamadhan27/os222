@@ -5,7 +5,7 @@
 [HOME]({{ site.baseurl }}/) ---
 [LINKS]({{ site.baseurl }}/LINKS/) ---
 [TIPS]({{ site.baseurl }}/TIPS/) ---
-[LOG](https://github.com/AdrianRamadhan27/os222/blob/main/TXT/mylog.txt) ---
+[LOG](https://adrianramadhan27.github.io/os222/TXT/mylog.txt) ---
 [TARBALL](SandBox/cbkadal.tar.xz) ---
 [GITHUB](https://github.com/AdrianRamadhan27/os222)
 <br>
