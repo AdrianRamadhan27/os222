@@ -25,24 +25,30 @@ A 5-10 minutes read about OS concept. Described about the definition and its fun
 This video is actually more of a lecture/course video rather than an informative one. If you want to start making notes for future purposes I recommend you to watch this video. Don't make this your first reference for OS as it will be very sleep-inducing. 
 
 4. [Linux in 100 Seconds](https://www.youtube.com/watch?v=rrB13utjYV4) - Fireship (YouTube)<br>
-Will summarize the Linux OS in a blink of an eye. Will be a good gateway for you for next week's subject. You might want to slow the video speed down while the Linux commands are being listed, though. 
+Will summarize the Linux OS in a blink of an eye. A good gateway for next week's subject. You might want to slow the video speed down while the Linux commands are being listed, though. 
 
 
 ## WEEK 01
-1. [One](https://en.wikipedia.org/wiki/1)<br>
-StarBucks ipsum dolor J.CO Do Not!
-McD ipsum dolor Wendy's Burger King.
-KFC urna libero, in purus hana masa, sore wa tempura hokben.
+1. [Linux Commands with Examples](https://www.javatpoint.com/linux-commands) - JavaTPoint<br>
+In my opinion, the best way to learn Linux commands are from reading, not watching a video. Helps you keep up at your own pace. This site will help guide you through **50 commands** (don't have to necessarily learn all of them) and give you usage examples of it. A good cheatsheet if you struggle to memorize the commands.
 
-2. [Two](https://en.wikipedia.org/wiki/2)<br>
-Sweet roll lollipop tootsie roll cheesecake marshmallow macaroon chocolate bar biscuit candy.
-Donut chocolate cake sugar plum icing dragée pie.
-Chocolate marzipan jelly-o soufflé donut pudding apple pie jelly beans.
+2. [10 Linux Terminal Commands for Beginners](https://www.youtube.com/watch?v=CpTfQ-q6MPU&) - Gary Explains (YouTube)<br>
+Don't feel like learning 50 commands? Don't worry, watch this video and learn the essential commands you can start with. After that, maybe go back to the first link. I recommend you to just watch and pay attention to the video and practice later after finished watching it as it could be quite a challenge to keep up. 
 
-3. [Three](https://en.wikipedia.org/wiki/3)<br>
-Liquorice bonbon lemon drops marshmallow.
-Sweet roll gummies gummies jelly tiramisu chocolate fruitcake.
-Jelly chocolate jelly beans marzipan brownie bonbon muffin.
+3. [Basics of VI editor in under 8 minutes](https://www.youtube.com/watch?v=-_DvfdgR-LA) - LabIT (YouTube)<br>
+A hidden gem of a video. Best way to learn Vi editor is through immediate demonstration. This guy gets straight to the point so just follow what he's doing step by steps.
+
+4. [Learn Regular Expressions with simple, interactive exercises](https://regexone.com/lesson/) - RegexOne<br>
+Best site to learn Regex (other than the video provided in [vslm.org](https://osp4diss.vlsm.org/Welcome2GNULinux.html). It will help explain each pattern and gives you an exercise to go along with it. You don't have to complete the whole lesson, you can finish as you've got a clearer picture about Regex.
+
+5. [you need to learn BASH Scripting RIGHT NOW!!](https://youtu.be/SPwyp2NG-bE?t=219) - NetworkChuck (YouTube)<br>
+Start the video at the timestamp (3:39). Pretty good demonstration about bash scripting. The guy on the video is very enthusiastic on explaining it will help cheer you up :). He not only demonstrates but also added his own notes so you can understand better.
+
+6. [Git It? How to use Git and Github](https://www.youtube.com/watch?v=HkdAHXoRtos&) - Fireship (YouTube)<br>
+You might have already learned this in PBP but nonetheless here's a good video about git commands and github. Will give you a good grasp on using git.
+
+7. [Learning GitHub - How to Write MarkDown](https://www.youtube.com/watch?v=eJojC3lSkwg) - Prof3ssorSt3v3 (YouTube)<br>
+Lastly, you should learn how to write markdown files. Wondering how this site is written? Well, the answer to that is in this video. Good lesson for PBP as well.
 
 
 <br>
