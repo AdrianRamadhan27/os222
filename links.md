@@ -14,6 +14,21 @@ permalink: LINKS/
 
 # LINKS
 
+## WEEK 00
+1. [How Do Operating Systems Work?](https://www.youtube.com/watch?v=GjNp0bBrjmU) - ClickView (YouTube)<br>
+A good brief introduction for understanding what OS is. Has cute animations to accompany you with. Explains a little about the history of computer operating systems. Best one to start with, in my opinion.
+
+2. [Introduction of Operating System – Set 1](https://www.geeksforgeeks.org/introduction-of-operating-system-set-1/) - GeeksforGeeks<br>
+A 5-10 minutes read about OS concept. Described about the definition and its functions. Explains it in conceptual view very well. Also discussed some of the components of an OS and examples of OS. If you want a quick read, this is a good option.
+
+3. [Introduction to Operating System](https://www.youtube.com/watch?v=vBURTt97EkA) - Neso Academy (YouTube)<br>
+This video is actually more of a lecture/course video rather than an informative one. If you want to start making notes for future purposes I recommend you to watch this video. Don't make this your first reference for OS as it will be very sleep-inducing. 
+
+4. [Linux in 100 Seconds](https://www.youtube.com/watch?v=rrB13utjYV4) - Fireship (YouTube)<br>
+Will summarize the Linux OS in a blink of an eye. Will be a good gateway for you for next week's subject. You might want to slow the video speed down while the Linux commands are being listed, though. 
+
+
+## WEEK 01
 1. [One](https://en.wikipedia.org/wiki/1)<br>
 StarBucks ipsum dolor J.CO Do Not!
 McD ipsum dolor Wendy's Burger King.
@@ -29,40 +44,6 @@ Liquorice bonbon lemon drops marshmallow.
 Sweet roll gummies gummies jelly tiramisu chocolate fruitcake.
 Jelly chocolate jelly beans marzipan brownie bonbon muffin.
 
-4. [Four](https://en.wikipedia.org/wiki/4)<br>
-Powder donut cheesecake wafer.
-I love sugar plum brownie tart apple pie macaroon.
-Donut wafer dragée pudding.
-
-5. [Five](https://en.wikipedia.org/wiki/5)<br>
-Soufflé I love gingerbread marshmallow cake I love applicake.
-Sugar plum I love jelly beans powder jelly beans.
-Ice cream ice cream cupcake liquorice I love.
-
-6. [Six](https://en.wikipedia.org/wiki/6)<br>
-Pastry sweet roll applicake bear claw donut sweet roll.
-Chocolate carrot cake I love sesame snaps.
-Pudding pudding chocolate cake croissant donut pastry pie cupcake cookie.
-
-7. [Seven](https://en.wikipedia.org/wiki/7)<br>
-Bonbon chupa chups cupcake bonbon lemon drops.
-Sweet bonbon biscuit jujubes pastry bonbon cookie croissant.
-Danish chupa chups I love cupcake.
-
-8. [Eight](https://en.wikipedia.org/wiki/8)<br>
-Tootsie roll I love soufflé I love chocolate.
-StarBucks ipsum dolor J.CO Do Not!
-McD ipsum dolor Wendy's Burger King.
-
-9. [Nine](https://en.wikipedia.org/wiki/9)<br>
-KFC urna libero, in purus hana masa, tempor hokben lorem.
-Sweet roll lollipop tootsie roll cheesecake marshmallow macaroon chocolate bar biscuit candy.
-Donut chocolate cake sugar plum icing dragée pie.
-
-10. [Ten](https://en.wikipedia.org/wiki/10)<br>
-Chocolate marzipan jelly-o soufflé donut pudding apple pie jelly beans.
-Sweet bonbon biscuit jujubes pastry bonbon cookie croissant.
-Danish chupa chups I love cupcake.
 
 <br>
 <hr>
