@@ -39,7 +39,7 @@ Don't feel like learning 50 commands? Don't worry, watch this video and learn th
 A hidden gem of a video. Best way to learn Vi editor is through immediate demonstration. This guy gets straight to the point so just follow what he's doing step by steps.
 
 4. [Learn Regular Expressions with simple, interactive exercises](https://regexone.com/lesson/) - RegexOne<br>
-Best site to learn Regex (other than the video provided in [vslm.org](https://osp4diss.vlsm.org/Welcome2GNULinux.html). It will help explain each pattern and gives you an exercise to go along with it. You don't have to complete the whole lesson, you can finish as you've got a clearer picture about Regex.
+Best site to learn Regex (other than the video provided in [vslm.org](https://osp4diss.vlsm.org/Welcome2GNULinux.html)). It will help explain each pattern and gives you an exercise to go along with it. You don't have to complete the whole lesson, you can finish as you've got a clearer picture about Regex.
 
 5. [you need to learn BASH Scripting RIGHT NOW!!](https://youtu.be/SPwyp2NG-bE?t=219) - NetworkChuck (YouTube)<br>
 Start the video at the timestamp (3:39). Pretty good demonstration about bash scripting. The guy on the video is very enthusiastic on explaining it will help cheer you up :). He not only demonstrates but also added his own notes so you can understand better.
