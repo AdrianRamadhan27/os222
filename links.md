@@ -6,9 +6,9 @@ permalink: LINKS/
 [HOME]({{ site.baseurl }}/) ---
 [LINKS]({{ site.baseurl }}/LINKS/) ---
 [TIPS]({{ site.baseurl }}/TIPS/) ---
-[LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
+[LOG](https://adrianramadhan27.github.io/os222/TXT/mylog.txt) ---
 [TARBALL](SandBox/cbkadal.tar.xz) ---
-[GITHUB]({{ site.githublink }})
+[GITHUB](https://github.com/AdrianRamadhan27/os222/)
 <br>
 <hr>
 
