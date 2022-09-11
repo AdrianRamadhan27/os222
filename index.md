@@ -5,15 +5,13 @@
 [HOME]({{ site.baseurl }}/) ---
 [LINKS]({{ site.baseurl }}/LINKS/) ---
 [TIPS]({{ site.baseurl }}/TIPS/) ---
-[LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
+[LOG](https://github.com/AdrianRamadhan27/os222/blob/main/TXT/mylog.txt) ---
 [TARBALL](SandBox/cbkadal.tar.xz) ---
-[GITHUB]({{ site.githublink }})
+[GITHUB](https://github.com/AdrianRamadhan27/os222)
 <br>
 <hr>
 This is {{ site.title }} and I am {{ site.author }}[AdrianRamadhan27](https://github.com/AdrianRamadhan27).
 <br><br>
-This is the way!
-<br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }}[AdrianRamadhan27](https://github.com/AdrianRamadhan27) --- Version: {{ site.version }}.
 <hr>
