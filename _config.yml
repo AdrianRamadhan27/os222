@@ -1,0 +1,14 @@
+version:    "0010d--13-Sep-2022"
+copyright:  "2022"
+author:     "Raden Mohamad Adrian"
+title:      "OS222: Operating Systems 2022-2"
+githublink: "https://github.com/adrianramadhan27/os222/"
+myloglink:  "/TXT/mylog.txt"
+mypublickey: "/TXT/mypubkey.txt"
+encoding:   UTF-8
+markdown:   kramdown
+input:      GFM
+hard_wrap:  false
+github:     [metada]
+
+

@@ -1,14 +1,14 @@
 ---
 permalink: LINKS/
 ---
-<span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}[AdrianRamadhan27](https://github.com/AdrianRamadhan27)</span>
+<span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
 <br><br>
 [HOME]({{ site.baseurl }}/) ---
 [LINKS]({{ site.baseurl }}/LINKS/) ---
 [TIPS]({{ site.baseurl }}/TIPS/) ---
-[LOG](https://adrianramadhan27.github.io/os222/TXT/mylog.txt) ---
+[LOG]({{ site.githublink}}/{{ site.myloglink }}) ---
 [TARBALL](SandBox/cbkadal.tar.xz) ---
-[GITHUB](https://github.com/AdrianRamadhan27/os222/)
+[GITHUB]({{ site.githublink }})
 <br>
 <hr>
 
