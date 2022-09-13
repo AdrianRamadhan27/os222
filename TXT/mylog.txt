@@ -1,6 +1,7 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+# WEEK00
 ZCZC W00 05 L01 Join SCELE
 ZCZC W00 10 L00 Fill https://forms.gle/QsUGiA7mWiYtXcs27 form
 ZCZC W00 10 L03 Made os222 Repo
@@ -10,6 +11,7 @@ ZCZC W00 100 L02 ZOOM meeting on Sep 1st 2022
 ZCZC W00 180 L06 Read and watched references for reading assignment
 ZCZC W00 3 L05 Did this week's Quiz 1
 ZCZC W00 30 L10 Finished WEEK 0 Assignments by updating TXT/mylog.txt
+# WEEK01
 ZCZC W01 15 L31 Downloaded and Installed VirtualBox
 ZCZC W01 2 L61 Installed VirtualBox Extension Pack
 ZCZC W01 5 L27 Downloaded and Installed PuTTY and WinSCP
@@ -27,4 +29,16 @@ ZCZC W01 10 L03 Added index.md and links.md for github page
 ZCZC W01 5 L40 Added myupdate.txt in /TXT/
 ZCZC W01 90 L03 Updated links.md with my recommended links for WEEK 0 and WEEK 1
 ZCZC W01 10 L11 Finished WEEK 1 Assignments by updating TXT/mylog.txt
-
+# WEEK02
+ZCZC W02 100 L02 Zoom meeting on Sep 13th 2022
+ZCZC W02 120 L06 Reading Silberschatz chapter 16, 17
+ZCZC W02 210 L32 Watching Cybersecurity videos
+ZCZC W02 10 L32 Watching Privacy videos
+ZCZC W02 30 L06 Reading Beginners guide to privacy references
+ZCZC W02 45 L26 Generated GnuPG key and imported rmspubkey.txt
+ZCZC W02 10 L42 Exported GnuPG key into TXT/mypubkey.txt
+ZCZC W02 30 L40 Updated links.md and index.md by using _config.yml variables
+ZCZC W02 15 L43 Created TXT/myrank.txt and reviewed peer links
+ZCZC W02 10 L44 Copy and pasted myscript.sh from cbkadal
+ZCZC W02 5 L40 Deleted rmspubkey from TXT/
+ZCZC W02 5 L40 Updated TXT/myupdate.txt
