@@ -5,7 +5,7 @@
 [HOME]({{ site.baseurl }}/) ---
 [LINKS]({{ site.baseurl }}/LINKS/) ---
 [TIPS]({{ site.baseurl }}/TIPS/) ---
-[LOG]({{ site.githublink }}/{{ site.myloglink }}) ---
+[LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
 [TARBALL](SandBox/cbkadal.tar.xz) ---
 [GITHUB]({{ site.githublink }})
 <br>
