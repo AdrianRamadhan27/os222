@@ -50,6 +50,27 @@ You might have already learned this in PBP but nonetheless here's a good video a
 7. [Learning GitHub - How to Write MarkDown](https://www.youtube.com/watch?v=eJojC3lSkwg) - Prof3ssorSt3v3 (YouTube)<br>
 Lastly, you should learn how to write markdown files. Wondering how this site is written? Well, the answer to that is in this video. Good lesson for PBP as well.
 
+## WEEK 02
+1. [Linux Commands with Examples](https://www.javatpoint.com/linux-commands) - JavaTPoint<br>
+In my opinion, the best way to learn Linux commands are from reading, not watching a video. Helps you keep up at your own pace. This site will help guide you through **50 commands** (don't have to necessarily learn all of them) and give you usage examples of it. A good cheatsheet if you struggle to memorize the commands.
+
+2. [10 Linux Terminal Commands for Beginners](https://www.youtube.com/watch?v=CpTfQ-q6MPU&) - Gary Explains (YouTube)<br>
+Don't feel like learning 50 commands? Don't worry, watch this video and learn the essential commands you can start with. After that, maybe go back to the first link. I recommend you to just watch and pay attention to the video and practice later after finished watching it as it could be quite a challenge to keep up. 
+
+3. [Basics of VI editor in under 8 minutes](https://www.youtube.com/watch?v=-_DvfdgR-LA) - LabIT (YouTube)<br>
+A hidden gem of a video. Best way to learn Vi editor is through immediate demonstration. This guy gets straight to the point so just follow what he's doing step by steps.
+
+4. [Learn Regular Expressions with simple, interactive exercises](https://regexone.com/lesson/) - RegexOne<br>
+Best site to learn Regex (other than the video provided in [vslm.org](https://osp4diss.vlsm.org/Welcome2GNULinux.html)). It will help explain each pattern and gives you an exercise to go along with it. You don't have to complete the whole lesson, you can finish as you've got a clearer picture about Regex.
+
+5. [you need to learn BASH Scripting RIGHT NOW!!](https://youtu.be/SPwyp2NG-bE?t=219) - NetworkChuck (YouTube)<br>
+Start the video at the timestamp (3:39). Pretty good demonstration about bash scripting. The guy on the video is very enthusiastic on explaining it will help cheer you up :). He not only demonstrates but also added his own notes so you can understand better.
+
+6. [Git It? How to use Git and Github](https://www.youtube.com/watch?v=HkdAHXoRtos&) - Fireship (YouTube)<br>
+You might have already learned this in PBP but nonetheless here's a good video about git commands and github. Will give you a good grasp on using git.
+
+7. [Learning GitHub - How to Write MarkDown](https://www.youtube.com/watch?v=eJojC3lSkwg) - Prof3ssorSt3v3 (YouTube)<br>
+Lastly, you should learn how to write markdown files. Wondering how this site is written? Well, the answer to that is in this video. Good lesson for PBP as well.
 
 <br>
 <hr>
