@@ -42,3 +42,10 @@ ZCZC W02 15 L43 Created TXT/myrank.txt and reviewed peer links
 ZCZC W02 10 L44 Copy and pasted myscript.sh from cbkadal
 ZCZC W02 5 L40 Deleted rmspubkey from TXT/
 ZCZC W02 5 L40 Updated TXT/myupdate.txt
+ZCZC W02 3 L05 Did this week's Quiz 1
+ZCZC W02 10 L62 Renamed Debian Guest hostname
+ZCZC W02 15 L26 Regenerated GnuPG key
+ZCZC W02 5 L42 Updated mypubkey.txt with new key
+ZCZC W02 5 L44 Updated myscript.sh with new key
+ZCZC W02 30 L40 Updated links.md
+ZCZC W02 10 L12 Finished WEEK 2 Assignments by updating TXT/mylog.txt
