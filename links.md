@@ -7,7 +7,7 @@ permalink: LINKS/
 [LINKS]({{ site.baseurl }}/LINKS/) ---
 [TIPS]({{ site.baseurl }}/TIPS/) ---
 [LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
-[TARBALL](SandBox/cbkadal.tar.xz) ---
+[TARBALL](https://os.vlsm.org/Log/AdrianRamadhan27.tar.bz2.txt) ---
 [GITHUB]({{ site.githublink }})
 <br>
 <hr>
@@ -60,7 +60,7 @@ If you don't have the time or energy to read the Silberschatz slides, this artic
 3. [Encryption and public keys](https://www.youtube.com/watch?v=6-JjHa-qLPk) - Khan Academy (YouTube)<br>
 Another concept you should learn is encryption. This should cover everything about encryption including symmetric vs asymmetric encrytion. This video is edited nicely with graphical illustrations to prevent you from getting bored unlike just some slide presentations. 
 
-4. [Free Interactive C Tutorial] (https://www.learn-c.org) - Learn C<br>
+4. [Free Interactive C Tutorial](https://www.learn-c.org) - Learn C<br>
 This is a good website for basic C programming and even advanced topics like pointers as well. If you don't think reading is going to help you memorize C syntax, don't worry. This site also provides an exercise for you to finish.
 
 <br>

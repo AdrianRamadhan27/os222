@@ -6,7 +6,7 @@
 [LINKS]({{ site.baseurl }}/LINKS/) ---
 [TIPS]({{ site.baseurl }}/TIPS/) ---
 [LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
-[TARBALL](SandBox/cbkadal.tar.xz) ---
+[TARBALL](https://os.vlsm.org/Log/AdrianRamadhan27.tar.bz2.txt) ---
 [GITHUB]({{ site.githublink }})
 <br>
 <hr>
