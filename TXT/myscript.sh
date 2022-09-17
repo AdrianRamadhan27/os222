@@ -4,14 +4,14 @@
 # useful, but WITHOUT ANY WARRANTY; without even the implied 
 # warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
-# REV01: Mon 12 Sep 2022 17:00
+# REV02: Sat 17 Sep 2022 13:00
 # START: Mon 28 Sep 2020 21:00
 
 # ATTN:
 # You new to set "REC2" with your own Public-Key Identity!
 # Check it out with "gpg --list-key"
 # ####################### Replace REC2 ####
-REC2="ECF8F418E14D6F30E615768D7C9CF51C3972B78B"
+REC2="827607017DFF932D"
 # ####################### ####### #### ####
 # REC1: public key
 REC1="63FB12B215403B20"
