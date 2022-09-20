@@ -49,3 +49,13 @@ ZCZC W02 5 L42 Updated mypubkey.txt with new key
 ZCZC W02 5 L44 Updated myscript.sh with new key
 ZCZC W02 30 L40 Updated links.md
 ZCZC W02 10 L12 Finished WEEK 2 Assignments by updating TXT/mylog.txt
+# WEEK03
+ZCZC W03 100 L02 Zoom meeting on Sep 20th 2022
+ZCZC W03 150 L06 Reading Silberschatz chapter 13, 14, 15
+ZCZC W03 60 L32 Watching File System videos
+ZCZC W03 30 L40 Updated links.md and _config.yaml
+ZCZC W03 30 L61 Added Virtual disk to VirtualBox
+ZCZC W03 10 L43 Reviewed peer links and updated myrank.txt
+ZCZC W03 3 L40 Updated myupdate.txt
+ZCZC W03 10 L44 Rerun myscript.sh for WEEK3
+ZCZC W03 10 L13 Finished WEEK 3 Assignments by updating mylog.txt

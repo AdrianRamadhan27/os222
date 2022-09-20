@@ -63,6 +63,16 @@ Another concept you should learn is encryption. This should cover everything abo
 4. [Free Interactive C Tutorial](https://www.learn-c.org) - Learn C<br>
 This is a good website for basic C programming and even advanced topics like pointers as well. If you don't think reading is going to help you memorize C syntax, don't worry. This site also provides an exercise for you to finish.
 
+## WEEK 03 💚
+1. [Introduction to Cybersecurity](https://www.youtube.com/watch?v=ULGILG-ZhO0) - CBT Nuggers (YouTube)<br>
+This video will give you a few ideas about cybersecurity. Some concepts are explained descriptively with illustrations. Won't cover all, however. If you want to finish the whole course check out the [playlist](https://www.youtube.com/playlist?list=PLQVJk9oC5JKq15cieChuOU9zFdf-FlnMi) as well.
+
+2. [System Security](https://www.geeksforgeeks.org/system-security/) - GeeksforGeeks <br>
+If you don't have the time or energy to read the Silberschatz slides, this article will pretty much summarize it for you. Once again, GeeksforGeeks is a good website for you to learn anything Computer Science related. 
+
+3. [Encryption and public keys](https://www.youtube.com/watch?v=6-JjHa-qLPk) - Khan Academy (YouTube)<br>
+Another concept you should learn is encryption. This should cover everything about encryption including symmetric vs asymmetric encrytion. This video is edited nicely with graphical illustrations to prevent you from getting bored unlike just some slide presentations. 
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
