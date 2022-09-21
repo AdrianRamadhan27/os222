@@ -59,3 +59,5 @@ ZCZC W03 10 L43 Reviewed peer links and updated myrank.txt
 ZCZC W03 3 L40 Updated myupdate.txt
 ZCZC W03 10 L44 Rerun myscript.sh for WEEK3
 ZCZC W03 10 L13 Finished WEEK 3 Assignments by updating mylog.txt
+ZCZC W03 10 L27 Regenerated my ssh key pair because the old one still use cbkadal as hostname
+ZCZC W03 60 L40 Updated links.md and _config.yaml

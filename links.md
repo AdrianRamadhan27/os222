@@ -64,15 +64,14 @@ Another concept you should learn is encryption. This should cover everything abo
 This is a good website for basic C programming and even advanced topics like pointers as well. If you don't think reading is going to help you memorize C syntax, don't worry. This site also provides an exercise for you to finish.
 
 ## WEEK 03 💚
-1. [Introduction to Cybersecurity](https://www.youtube.com/watch?v=ULGILG-ZhO0) - CBT Nuggers (YouTube)<br>
-This video will give you a few ideas about cybersecurity. Some concepts are explained descriptively with illustrations. Won't cover all, however. If you want to finish the whole course check out the [playlist](https://www.youtube.com/playlist?list=PLQVJk9oC5JKq15cieChuOU9zFdf-FlnMi) as well.
+1. [Files & File Systems](https://www.youtube.com/watch?v=KN8YgJnShPM) - CrashCourse (YouTube)<br>
+Good introduction about files and file systems. Has illustrations to help you understand the basic concepts. Won't cover much but should be a good start for this week's subject.
 
-2. [System Security](https://www.geeksforgeeks.org/system-security/) - GeeksforGeeks <br>
-If you don't have the time or energy to read the Silberschatz slides, this article will pretty much summarize it for you. Once again, GeeksforGeeks is a good website for you to learn anything Computer Science related. 
+2. [File Systems in Operating System](https://www.geeksforgeeks.org/file-systems-in-operating-system/) - GeeksforGeeks<br>
+Still going strong with GeeksforGeeks. Pretty much summarized chapter 13, 14, and 15 of Silberchatz. Also check out the next few articles ([Structures of Directory in Operating System](https://www.geeksforgeeks.org/structures-of-directory-in-operating-system/), [File Allocation Methods](https://www.geeksforgeeks.org/file-allocation-methods/?ref=lbp),[Free space management in Operating Systems](https://www.geeksforgeeks.org/free-space-management-in-operating-system/)).
 
-3. [Encryption and public keys](https://www.youtube.com/watch?v=6-JjHa-qLPk) - Khan Academy (YouTube)<br>
-Another concept you should learn is encryption. This should cover everything about encryption including symmetric vs asymmetric encrytion. This video is edited nicely with graphical illustrations to prevent you from getting bored unlike just some slide presentations. 
-
+3. [Linux File System/Structure Explained!](https://www.youtube.com/watch?v=HbgzrKJvDRw) - DorianDotSlash (YouTube)<br>
+This one specifically focus on Linux file systems so not only is it important for this week's subject it also should help you understand more how to use VirtualBox for future weeks. 
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
