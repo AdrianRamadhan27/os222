@@ -71,7 +71,10 @@ Good introduction about files and file systems. Has illustrations to help you un
 Still going strong with GeeksforGeeks. Pretty much summarized chapter 13, 14, and 15 of Silberchatz. Also check out the next few articles ([Structures of Directory in Operating System](https://www.geeksforgeeks.org/structures-of-directory-in-operating-system/), [File Allocation Methods](https://www.geeksforgeeks.org/file-allocation-methods/?ref=lbp),[Free space management in Operating Systems](https://www.geeksforgeeks.org/free-space-management-in-operating-system/)).
 
 3. [Linux File System/Structure Explained!](https://www.youtube.com/watch?v=HbgzrKJvDRw) - DorianDotSlash (YouTube)<br>
-This one specifically focus on Linux file systems so not only is it important for this week's subject it also should help you understand more how to use VirtualBox for future weeks. 
+This one specifically focus on Linux file systems so not only is it important for this week's subject it also should help you understand more how to use VirtualBox for future weeks.
+
+## WEEK 04 💙
+Working on it 👷 
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.

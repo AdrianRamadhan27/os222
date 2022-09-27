@@ -66,3 +66,10 @@ ZCZC W03 120 L99 Offline class on Sep 22nd 2022 Room 3114
 ZCZC W03 15 L01 Pop QUIZ 2 on scele
 ZCZC W03 3 L05 Did this week's Quiz 1
 ZCZC W03 10 L41 Updated mylog.txt and commit to repo
+# WEEK04
+ZCZC W04 60 L06 Reading Chapter  9 of Silberschatz
+ZCZC W04 30 L14 Finish Assignment WEEK04
+ZCZC W04 15 L43 Reviewed peer links and updated myrank.txt
+ZCZC W04 5 L40 Updated myupdate.txt
+ZCZC W04 5 L44 Rerun myscript.sh for WEEK04
+ZCZC W04 10 L04 Updated links.md and _config.yml
