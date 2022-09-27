@@ -73,3 +73,9 @@ ZCZC W04 15 L43 Reviewed peer links and updated myrank.txt
 ZCZC W04 5 L40 Updated myupdate.txt
 ZCZC W04 5 L44 Rerun myscript.sh for WEEK04
 ZCZC W04 10 L04 Updated links.md and _config.yml
+ZCZC W04 20 L01 POP QUIZ WEEK04 on Scele
+ZCZC W04 100 L02 Zoom meeting on Sep 27th
+ZCZC W04 10 L41 Updated mylog.txt
+ZCZC W04 10 L14 Redo assignment WEEK04 because bin/sh error
+ZCZC W04 5 L44 Rerun myscript.sh
+ZCZC W04 5 L03 Commit to github repo
