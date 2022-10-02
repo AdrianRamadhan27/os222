@@ -74,7 +74,14 @@ Still going strong with GeeksforGeeks. Pretty much summarized chapter 13, 14, an
 This one specifically focus on Linux file systems so not only is it important for this week's subject it also should help you understand more how to use VirtualBox for future weeks.
 
 ## WEEK 04 💙
-Working on it 👷 
+1. [Operating Systems 2 - Memory Manager](https://www.youtube.com/watch?v=qdkxXygc3rE) - OpenCanvas (Youtube)<br>
+This video will explain in brief about few memory management schemes. If you had questions about memory in operating systems before, this video will more than likely answer it.
+
+2. [Paging | Memory Management | Operating System](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi8jtyHv8D6AhXx8DgGHZrTAbwQFnoECE8QAQ&url=https%3A%2F%2Fwww.gatevidyalay.com%2Fpaging-memory-management-operating-system%2F&usg=AOvVaw2WD79q768m2XbpqcinL936) - GateVidyalay<br>
+Trying to switch things up a bit this time. Just so you know, GeeksForGeeks has complete source for this week's subject as well. But since I've referenced it too much this time I'll use an alternative. This site has a good explanation about paging and memory management in general.
+
+3. [Pointers in C](https://www.youtube.com/watch?v=mw1qsMieK5c) - Gary Explains (YouTube) <br>
+If the tradition stands, this week's QUIZ02 shall test you on C pointers. Not only is this video a great help for that, it should also give you an understanding about pointers in general. 
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.

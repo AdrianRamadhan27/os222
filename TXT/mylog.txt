@@ -79,3 +79,8 @@ ZCZC W04 10 L41 Updated mylog.txt
 ZCZC W04 10 L14 Redo assignment WEEK04 because bin/sh error
 ZCZC W04 5 L44 Rerun myscript.sh
 ZCZC W04 5 L03 Commit to github repo
+ZCZC W04 100 L99 Offline class on Sep 29th 2022 Room 3114
+ZCZC W04 5 L05 Did this week's QUIZ 2
+ZCZC W04 3 L05 Did this week's QUIZ 1
+ZCZC W04 30 L04 Updated links.md and _config.yml
+
