@@ -14,7 +14,9 @@ permalink: LINKS/
 
 # LINKS 🔗
 
-## WEEK 00 ❤
+<details>
+  <summary>WEEK 00 ❤</summary>
+
 1. [How Do Operating Systems Work?](https://www.youtube.com/watch?v=GjNp0bBrjmU) - ClickView (YouTube)<br>
 A good brief introduction for understanding what OS is. Has cute animations to accompany you with. Explains a little about the history of computer operating systems. Best one to start with, in my opinion.
 
@@ -26,9 +28,11 @@ This video is actually more of a lecture/course video rather than an informative
 
 4. [Linux in 100 Seconds](https://www.youtube.com/watch?v=rrB13utjYV4) - Fireship (YouTube)<br>
 Will summarize the Linux OS in a blink of an eye. A good gateway for next week's subject. You might want to slow the video speed down while the Linux commands are being listed, though. 
+</details>
 
+<details>
+  <summary>WEEK 01 🧡</summary>
 
-## WEEK 01 🧡
 1. [Linux Commands with Examples](https://www.javatpoint.com/linux-commands) - JavaTPoint<br>
 In my opinion, the best way to learn Linux commands are from reading, not watching a video. Helps you keep up at your own pace. This site will help guide you through **50 commands** (don't have to necessarily learn all of them) and give you usage examples of it. A good cheatsheet if you struggle to memorize the commands.
 
@@ -49,8 +53,11 @@ You might have already learned this in PBP but nonetheless here's a good video a
 
 7. [Learning GitHub - How to Write MarkDown](https://www.youtube.com/watch?v=eJojC3lSkwg) - Prof3ssorSt3v3 (YouTube)<br>
 Lastly, you should learn how to write markdown files. Wondering how this site is written? Well, the answer to that is in this video. Good lesson for PBP as well.
+</details>
 
-## WEEK 02 💛
+<details>
+  <summary>WEEK 02 💛</summary>
+
 1. [Introduction to Cybersecurity](https://www.youtube.com/watch?v=ULGILG-ZhO0) - CBT Nuggers (YouTube)<br>
 This video will give you a few ideas about cybersecurity. Some concepts are explained descriptively with illustrations. Won't cover all, however. If you want to finish the whole course check out the [playlist](https://www.youtube.com/playlist?list=PLQVJk9oC5JKq15cieChuOU9zFdf-FlnMi) as well.
 
@@ -62,8 +69,11 @@ Another concept you should learn is encryption. This should cover everything abo
 
 4. [Free Interactive C Tutorial](https://www.learn-c.org) - Learn C<br>
 This is a good website for basic C programming and even advanced topics like pointers as well. If you don't think reading is going to help you memorize C syntax, don't worry. This site also provides an exercise for you to finish.
+</details>
+  
+<details>
+  <summary>WEEK 03 💚</summary>
 
-## WEEK 03 💚
 1. [Files & File Systems](https://www.youtube.com/watch?v=KN8YgJnShPM) - CrashCourse (YouTube)<br>
 Good introduction about files and file systems. Has illustrations to help you understand the basic concepts. Won't cover much but should be a good start for this week's subject.
 
@@ -72,8 +82,11 @@ Still going strong with GeeksforGeeks. Pretty much summarized chapter 13, 14, an
 
 3. [Linux File System/Structure Explained!](https://www.youtube.com/watch?v=HbgzrKJvDRw) - DorianDotSlash (YouTube)<br>
 This one specifically focus on Linux file systems so not only is it important for this week's subject it also should help you understand more how to use VirtualBox for future weeks.
+</details>
+  
+<details>
+  <summary>WEEK 04 💙</summary>
 
-## WEEK 04 💙
 1. [Operating Systems 2 - Memory Manager](https://www.youtube.com/watch?v=qdkxXygc3rE) - OpenCanvas (Youtube)<br>
 This video will explain in brief about few memory management schemes. If you had questions about memory in operating systems before, this video will more than likely answer it.
 
@@ -82,8 +95,11 @@ Trying to switch things up a bit this time. Just so you know, GeeksForGeeks has 
 
 3. [Pointers in C](https://www.youtube.com/watch?v=mw1qsMieK5c) - Gary Explains (YouTube) <br>
 If the tradition stands, this week's QUIZ02 shall test you on C pointers. Not only is this video a great help for that, it should also give you an understanding about pointers in general. 
+</details>  
+ 
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
 <hr>
 <br>
+
