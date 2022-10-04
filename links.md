@@ -19,6 +19,7 @@ permalink: LINKS/
 - [WEEK 02](#week-02-)
 - [WEEK 03](#week-03-)
 - [WEEK 04](#week-04-)
+- [WEEK 05](#week-05-)
 
 
 ## WEEK 00 ❤
@@ -89,6 +90,8 @@ Trying to switch things up a bit this time. Just so you know, GeeksForGeeks has 
 
 3. [Pointers in C](https://www.youtube.com/watch?v=mw1qsMieK5c) - Gary Explains (YouTube) <br>
 If the tradition stands, this week's QUIZ02 shall test you on C pointers. Not only is this video a great help for that, it should also give you an understanding about pointers in general. 
+<## WEEK 05 💙
+Wroking on it... 👷
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.

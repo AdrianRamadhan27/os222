@@ -83,4 +83,13 @@ ZCZC W04 100 L99 Offline class on Sep 29th 2022 Room 3114
 ZCZC W04 5 L05 Did this week's QUIZ 2
 ZCZC W04 3 L05 Did this week's QUIZ 1
 ZCZC W04 30 L04 Updated links.md and _config.yml
-
+# WEEK05
+ZCZC W05 100 L02 Zoom meeting on Oct 4th
+ZCZC W05 60 L15 Assignment WEEK05 Done
+ZCZC W05 30 L01 POPQUIZ1 WEEK05 on Scele
+ZCZC W05 15 L01 POPQUIZ2 WEEK05 on Scele
+ZCZC W05 5 L40 Updated myupdate.txt
+ZCZC W05 15 L43 Reviewed peer links and updated myrank.txt
+ZCZC W05 15 L41 Updated mylog.txt
+ZCZC W05 5 L44 Rerun myscript.sh
+ZCZC W05 5 L03 Commit to github repo
