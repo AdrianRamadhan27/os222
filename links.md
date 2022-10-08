@@ -82,7 +82,7 @@ Still going strong with GeeksforGeeks. Pretty much summarized chapter 13, 14, an
 This one specifically focus on Linux file systems so not only is it important for this week's subject it also should help you understand more how to use VirtualBox for future weeks.
 
 ## WEEK 04 💙
-1. [Operating Systems 2 - Memory Manager](https://www.youtube.com/watch?v=qdkxXygc3rE) - OpenCanvas (Youtube)<br>
+1. [Operating Systems 2 - Memory Manager](https://www.youtube.com/watch?v=qdkxXygc3rE) - OpenCanvas (YouTube)<br>
 This video will explain in brief about few memory management schemes. If you had questions about memory in operating systems before, this video will more than likely answer it.
 
 2. [Paging | Memory Management | Operating System](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi8jtyHv8D6AhXx8DgGHZrTAbwQFnoECE8QAQ&url=https%3A%2F%2Fwww.gatevidyalay.com%2Fpaging-memory-management-operating-system%2F&usg=AOvVaw2WD79q768m2XbpqcinL936) - GateVidyalay<br>
@@ -90,8 +90,14 @@ Trying to switch things up a bit this time. Just so you know, GeeksForGeeks has 
 
 3. [Pointers in C](https://www.youtube.com/watch?v=mw1qsMieK5c) - Gary Explains (YouTube) <br>
 If the tradition stands, this week's QUIZ02 shall test you on C pointers. Not only is this video a great help for that, it should also give you an understanding about pointers in general. 
-<## WEEK 05 💙
-Wroking on it... 👷
+## WEEK 05 💙
+1. [Operating System - Virtual Memory](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm) - TutorialsPoint <br>
+This article just like GeeksForGeeks sums up the Silberschatz chapter 10 slide. If you don't have time to study for QUIZ 01 of WEEK 5 this should be a great help. It explains the advantages of virtual memory, what demand paging is, page replacement, FIFO, and LRU. Only missing explanation about copy-on-write.
+2. [Copy on Write](https://www.geeksforgeeks.org/copy-on-write/) - GeeksForGeeks <br>
+Since the first link didn't cover COW. This should be its complementary read. Mind you, Copy-on-Write is a very important concept that you should understand and remember in order to answer quiz questions or Mr. RMS' questions in class (no more "Moshi moshi?").
+3. [Endianness in C | Big Endian vs Little Endian](Endianness in C | Big Endian vs Little Endian) - TechVedas .learn (YouTube) <br> 
+You probably have already learnt this concept in PSD and POK, but just in case forgot or still couldn't grasp the concept this video is a good explanation for you. It's specifically in C so it should also help you with Quiz 2 of WEEK5. 
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
