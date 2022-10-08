@@ -96,7 +96,7 @@ If the tradition stands, this week's QUIZ02 shall test you on C pointers. Not on
 This article just like GeeksForGeeks sums up the Silberschatz chapter 10 slide. If you don't have time to study for QUIZ 01 of WEEK 5 this should be a great help. It explains the advantages of virtual memory, what demand paging is, page replacement, FIFO, and LRU. Only missing explanation about copy-on-write.
 2. [Copy on Write](https://www.geeksforgeeks.org/copy-on-write/) - GeeksForGeeks <br>
 Since the first link didn't cover COW. This should be its complementary read. Mind you, Copy-on-Write is a very important concept that you should understand and remember in order to answer quiz questions or Mr. RMS' questions in class (no more "Moshi moshi?").
-3. [Endianness in C | Big Endian vs Little Endian](Endianness in C | Big Endian vs Little Endian) - TechVedas .learn (YouTube) <br> 
+3. [Endianness in C | Big Endian vs Little Endian](https://www.youtube.com/watch?v=a9lVoThjV7o) - TechVedas .learn (YouTube) <br> 
 You probably have already learnt this concept in PSD and POK, but just in case forgot or still couldn't grasp the concept this video is a good explanation for you. It's specifically in C so it should also help you with Quiz 2 of WEEK5. 
 
 <br>
