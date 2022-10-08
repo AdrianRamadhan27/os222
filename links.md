@@ -90,7 +90,8 @@ Trying to switch things up a bit this time. Just so you know, GeeksForGeeks has 
 
 3. [Pointers in C](https://www.youtube.com/watch?v=mw1qsMieK5c) - Gary Explains (YouTube) <br>
 If the tradition stands, this week's QUIZ02 shall test you on C pointers. Not only is this video a great help for that, it should also give you an understanding about pointers in general. 
-## WEEK 05 💙
+
+## WEEK 05 💜
 1. [Operating System - Virtual Memory](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm) - TutorialsPoint <br>
 This article just like GeeksForGeeks sums up the Silberschatz chapter 10 slide. If you don't have time to study for QUIZ 01 of WEEK 5 this should be a great help. It explains the advantages of virtual memory, what demand paging is, page replacement, FIFO, and LRU. Only missing explanation about copy-on-write.
 2. [Copy on Write](https://www.geeksforgeeks.org/copy-on-write/) - GeeksForGeeks <br>
