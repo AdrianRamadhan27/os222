@@ -100,3 +100,9 @@ ZCZC W05 30 L15 Redid Assignment WEEK05 on 191 memory
 ZCZC W05 30 L04 Updated links.md and _config.yml
 ZCZC W05 10 L41 Updated mylog.txt
 ZCZC W05 3 L43 Rerun myscript.sh
+# WEEK06
+ZCZC W06 100 L99 Offline class on Nov 1st 2022 Room 3114
+ZCZC W06 30 L16 Assignment WEEK06 DOne
+ZCZC W06 5 L40 Updated myupdate.txt
+ZCZC W06 15 L41 Updated mylog.txt
+ZCZC W06 5 L44 Rerun myscript.sh
