@@ -20,6 +20,7 @@ permalink: LINKS/
 - [WEEK 03](#week-03-)
 - [WEEK 04](#week-04-)
 - [WEEK 05](#week-05-)
+- [WEEK 06](#week-06-)
 
 
 ## WEEK 00 ❤
@@ -98,6 +99,12 @@ This article just like GeeksForGeeks sums up the Silberschatz chapter 10 slide. 
 Since the first link didn't cover COW. This should be its complementary read. Mind you, Copy-on-Write is a very important concept that you should understand and remember in order to answer quiz questions or Mr. RMS' questions in class (no more "Moshi moshi?").
 3. [Endianness in C | Big Endian vs Little Endian](https://www.youtube.com/watch?v=a9lVoThjV7o) - TechVedas .learn (YouTube) <br> 
 You probably have already learnt this concept in PSD and POK, but just in case forgot or still couldn't grasp the concept this video is a good explanation for you. It's specifically in C so it should also help you with Quiz 2 of WEEK5. 
+
+
+## WEEK 06 🤎
+1. [Link 1](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm) - TutorialsPoint <br>
+2. [Link 2](https://www.geeksforgeeks.org/copy-on-write/) - GeeksForGeeks <br>
+3. [Link 3](https://www.youtube.com/watch?v=a9lVoThjV7o) - TechVedas .learn (YouTube) <br> 
 
 <br>
 <hr>

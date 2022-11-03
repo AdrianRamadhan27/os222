@@ -106,3 +106,6 @@ ZCZC W06 30 L16 Assignment WEEK06 DOne
 ZCZC W06 5 L40 Updated myupdate.txt
 ZCZC W06 15 L41 Updated mylog.txt
 ZCZC W06 5 L44 Rerun myscript.sh
+ZCZC W06 100 L99 Offline class on Nov 3rd 2022 Room A2.01
+ZCZC W06 15 L43 Reviewed peer links and updated myrank.txt
+ZCZC W06 15 L04 Updated links.md and _config.yml
