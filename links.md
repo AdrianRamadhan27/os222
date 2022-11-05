@@ -108,7 +108,7 @@ Underrated video with not enough views. Before I watched this video I had troubl
 This article is definitely a must-read. It explains briefly and about scheduling queues, scheduler types, context switch and also a good intro to the next topic which is operations on process which are creation and termination. You can also read the full article package/course on this website which is more than enough for you to understand this week's subject.
 3. [Fork, exec, wait and exit system call explained in Linux](https://vitux.com/fork-exec-wait-and-exit-system-call-explained-in-linux/) - VITUX  <br>
 This article will explain more about process scheduling specifically  in Linus/C that is used by processes. Some of the syscalls here are very important to understand and remember.  After reading this article don't forget to try the W6 demos and/or previous midterms. Definitely will be a big help.
-4. [Multithreading vs. Multiprocessing: What's the Difference?](https://www.indeed.com/career-advice/career-development/multithreading-vs-multiprocessing) <br>
+4. [Multithreading vs. Multiprocessing: What's the Difference?](https://www.indeed.com/career-advice/career-development/multithreading-vs-multiprocessing) - indeed <br>
 Moving on to the topic of threads, this article has a great explanation about multithreading and multiprocessing. Not only that, this article also provides the benefits and drawbacks of each. 
 
 
