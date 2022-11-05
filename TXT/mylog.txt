@@ -109,3 +109,13 @@ ZCZC W06 5 L44 Rerun myscript.sh
 ZCZC W06 100 L99 Offline class on Nov 3rd 2022 Room A2.01
 ZCZC W06 15 L43 Reviewed peer links and updated myrank.txt
 ZCZC W06 15 L04 Updated links.md and _config.yml
+ZCZC W06 30 L61 Updated Virtual Box and packages
+ZCZC W06 15 L62 Upgraded Virtual Debian version
+ZCZC W06 30 L05 Studied for and did QUIZ02 On Scele
+ZCZC W06 15 L02 Did POPQUIZ3 On Scele
+ZCZC W06 15 L02 Did POPQUIZ1 On Scele
+ZCZC W06 3 L05 QUIZ01 On Scele
+ZCZC W06 60 L06 Reading and Browsing how to open os1.cs.ui.ac.id on WinScp
+ZCZC W06 30 L02 Did POPQUIZ2 On Scele
+ZCZC W06 30 L04 Updated links.md
+ZCZC W06 15 L41 Updated mylog.txt and rerun myscript.sh
