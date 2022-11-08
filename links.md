@@ -21,7 +21,7 @@ permalink: LINKS/
 - [WEEK 04](#week-04-)
 - [WEEK 05](#week-05-)
 - [WEEK 06](#week-06-)
-
+- [WEEK 07](#week-07-)
 
 ## WEEK 00 ❤
 1. [How Do Operating Systems Work?](https://www.youtube.com/watch?v=GjNp0bBrjmU) - ClickView (YouTube)<br>
@@ -110,6 +110,13 @@ This article is definitely a must-read. It explains briefly and about scheduling
 This article will explain more about process scheduling specifically  in Linus/C that is used by processes. Some of the syscalls here are very important to understand and remember.  After reading this article don't forget to try the W6 demos and/or previous midterms. Definitely will be a big help.
 4. [Multithreading vs. Multiprocessing: What's the Difference?](https://www.indeed.com/career-advice/career-development/multithreading-vs-multiprocessing) - indeed <br>
 Moving on to the topic of threads, this article has a great explanation about multithreading and multiprocessing. Not only that, this article also provides the benefits and drawbacks of each. 
+
+## WEEK 07 🖤
+1. [Link 1](https://www.youtube.com/watch?v=vLwMl9qK4T8) - Source <br>
+2. [Link 2](https://www.studytonight.com/operating-system/process-scheduling) - Source <br>
+3. [Link 3](https://vitux.com/fork-exec-wait-and-exit-system-call-explained-in-linux/) - Source  <br>
+4. [Link 4](https://www.indeed.com/career-advice/career-development/multithreading-vs-multiprocessing) - Source <br>
+
 
 
 <br>
