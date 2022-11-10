@@ -126,3 +126,8 @@ ZCZC W07 15 L02 Did POPQUIZ2 On Scele
 ZCZC W07 5 L40 Updated myupdate.txt
 ZCZC W07 15 L43 Reviewed peer links and updated myrank.txt
 ZCZC W07 5 L44 Run myscript.sh WEEK07
+ZCZC W07 100 L99 Offline class on Nov 8th 2022 Room 3114
+ZCZC W07 100 L99 Offline class on Nov 10th 2022 Room A2.01
+ZCZC W07 65 L05 Studied for and did QUIZ02 on Scele
+ZCZC W07 10 L07 Run demos and script 98-DEMO-CHECK.sh
+ZCZC W07 60 L04 Updated links.md

@@ -111,13 +111,21 @@ This article will explain more about process scheduling specifically  in Linus/C
 4. [Multithreading vs. Multiprocessing: What's the Difference?](https://www.indeed.com/career-advice/career-development/multithreading-vs-multiprocessing) - indeed <br>
 Moving on to the topic of threads, this article has a great explanation about multithreading and multiprocessing. Not only that, this article also provides the benefits and drawbacks of each. 
 
+
 ## WEEK 07 🖤
-1. [Link 1](https://www.youtube.com/watch?v=vLwMl9qK4T8) - Source <br>
-2. [Link 2](https://www.studytonight.com/operating-system/process-scheduling) - Source <br>
-3. [Link 3](https://vitux.com/fork-exec-wait-and-exit-system-call-explained-in-linux/) - Source  <br>
-4. [Link 4](https://www.indeed.com/career-advice/career-development/multithreading-vs-multiprocessing) - Source <br>
+1. [Unix Processes in C](https://www.youtube.com/watch?v=cex9XrZCU14&list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY) - CodeVault (YouTube) <br>
+This is a really good playlist to learn processes. The guy on the videos will go in depth through every concept and he has such a nice way of explaining them.
+2. [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/?ref=lbp) - GeeksForGeeks <br>
+It's been a while so I'll continue referring GFG again. Just like previous subjects, these collection of articles will sum up the contents of Silberschatz chapter 8 and honestly easier to understand.
+3. [How to Use SCP Command to Securely Transfer Files](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/) - Linuxize <br>
+For a linux newbie myself I was dumbfounded when week07 assignment requires you to copy from a local system to a remote system. But this article helped me understand how. Also, try WinSCP but you'll need to get your ssh public key.
 
 
+<br>
+<hr>
+&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
+<hr>
+<br>
 
 <br>
 <hr>
