@@ -22,6 +22,8 @@ permalink: LINKS/
 - [WEEK 05](#week-05-)
 - [WEEK 06](#week-06-)
 - [WEEK 07](#week-07-)
+- [WEEK 08](#week-08-)
+
 
 ## WEEK 00 ❤
 1. [How Do Operating Systems Work?](https://www.youtube.com/watch?v=GjNp0bBrjmU) - ClickView (YouTube)<br>
@@ -120,6 +122,8 @@ It's been a while so I'll continue referring GFG again. Just like previous subje
 3. [How to Use SCP Command to Securely Transfer Files](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/) - Linuxize <br>
 For a linux newbie myself I was dumbfounded when week07 assignment requires you to copy from a local system to a remote system. But this article helped me understand how. Also, try WinSCP but you'll need to get your ssh public key.
 
+## WEEK 08 🤍
+1. [Link 1](https://www.youtube.com/) - Source <br>
 
 <br>
 <hr>
