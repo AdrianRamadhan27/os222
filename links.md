@@ -129,7 +129,7 @@ For me, understanding the algorithms for CPU scheduling such as FCFS, SJF, RR, e
 2. [Multiprocessors Scheduling in Operating System](https://www.javatpoint.com/multiple-processors-scheduling-in-operating-system) - javaTpoint <br>
 Unfortunately, I couldn't find any good videos when it comes to multiprocessor scheduling or thread scheduling. So a quick search on google will give you this article that is pretty clear in my opinion in explaining the concepts. 
 
-3.[LFS 11.2 Package Mirrors](https://ftp.osuosl.org/pub/lfs/lfs-packages/11.2/) - OSU Open Source Lab <br>
+3. [LFS 11.2 Package Mirrors](https://ftp.osuosl.org/pub/lfs/lfs-packages/11.2/) - OSU Open Source Lab <br>
 As long as you follow step by step from [Kernotex](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ)'s playlist, you most likey won't run into any problems for WEEK08 Assignments. But 1 issue I ran into was some packages in the wget-list are not available to download because newer versions are out. In order to get the proper package required for md5sums to clear you can download them from this archive.
  
 <br>
