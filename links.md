@@ -131,7 +131,19 @@ Unfortunately, I couldn't find any good videos when it comes to multiprocessor s
 
 3. [LFS 11.2 Package Mirrors](https://ftp.osuosl.org/pub/lfs/lfs-packages/11.2/) - OSU Open Source Lab <br>
 As long as you follow step by step from [Kernotex](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ)'s playlist, you most likey won't run into any problems for WEEK08 Assignments. But 1 issue I ran into was some packages in the wget-list are not available to download because newer versions are out. In order to get the proper package required for md5sums to clear you can download them from this archive.
- 
+
+## WEEK 09 💔
+Probably the last, sorry.
+1. [MBR vs GPT](https://www.softwaretestinghelp.com/mbr-vs-gpt/) - Software Testing Help <br>
+This site contains helpful information about the two partitioning methods. It should be a very effective cheatsheet for this week's QUIZ as it did help me. If you're interested further in the topic this site also has everything.
+
+2. [EASY-HOW-TO Disk Scheduling Algorithm](https://www.youtube.com/watch?v=yrO5fvXlESE) - Blancaflor Arada (YouTube) <br>
+Again, anything to do with algorithms are best explained through video demonstration rather than plain reading. This video explains all 3 of the algorithms in 1 albeit quite a long duration. 
+
+3. [What is RAID 0, 1, 5, & 10?](https://www.youtube.com/watch?v=U-OCdTeZLac) - PowerCert Animated Videos (YouTube) <br>
+Another concept often questioned in this week's quiz is RAID 5. Honestly, I did not watch the video or understand the concept myself. Writing this at 1 AM as I wait for a world cup match to start at 2. Just putting some grind for mylog.txt.This should be farewell, good luck for me and you.
+
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.

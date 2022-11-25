@@ -161,3 +161,6 @@ ZCCZ W09 5 L40 Updated myupdate.txt
 ZCZC W09 5 L04 Updated links.md
 ZCZC W09 10 L41 Updated mylog.txt
 ZCZC W09 5 L44 Run myscript on WEEK9
+ZCZC W09 3 L05 QUIZ01 on Scele
+ZCZC W08 15 L04 Updated links.md
+ZCZC W08 10 L41 Updated mylog and rerun myscript
