@@ -23,7 +23,7 @@ permalink: LINKS/
 - [WEEK 06](#week-06-)
 - [WEEK 07](#week-07-)
 - [WEEK 08](#week-08-)
-
+- [WEEK 09](#week-09-)
 
 ## WEEK 00 ❤
 1. [How Do Operating Systems Work?](https://www.youtube.com/watch?v=GjNp0bBrjmU) - ClickView (YouTube)<br>
@@ -144,11 +144,7 @@ Again, anything to do with algorithms are best explained through video demonstra
 Another concept often questioned in this week's quiz is RAID 5. Honestly, I did not watch the video or understand the concept myself. Writing this at 1 AM as I wait for a world cup match to start at 2. Just putting some grind for mylog.txt.This should be farewell, good luck for me and you.
 
 
-<br>
-<hr>
-&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
-<hr>
-<br>
+
 
 <br>
 <hr>
